@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Hind+Madurai&family=Poppins:wght@200&display=swap');
 :root{
-    --primary: white;
-    --secondary: black;
+    --primary: orange;
+    --secondary: red;
     --bg : url("imgage/logojpg");
     --con: rgb(243, 21, 21);
     --lbg: url("imgage/logo.jpg");

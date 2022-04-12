@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Hind+Madurai&family=Poppins:wght@200&display=swap');
 :root{
-    --primary: orange;
-    --secondary: red;
+    --primary: red;
+    --secondary: orange;
     --bg : url("imgage/logojpg");
     --con: rgb(243, 21, 21);
     --lbg: url("imgage/logo.jpg");
@@ -29,9 +29,9 @@ body{
 }
 
 .dmode{
-    --primary: black;
+    --primary: orange;
     --secondary: #fff;
-    --bg: url("img/lbg.jpg");
+    --bg: url("imgage/logo.jpg");
     --icons: #c4c4c4;
     --i-hover: #4facfe;
     --menu:#4facfe;

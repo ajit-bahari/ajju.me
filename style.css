@@ -2,7 +2,7 @@
 :root{
     --primary: red;
     --secondary: orange;
-    --bg : url("imgage/logojpg");
+    --bg : url("imgage/logo.jpg");
     --con: rgb(243, 21, 21);
     --lbg: url("imgage/logo.jpg");
     --icons: white;

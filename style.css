@@ -2,7 +2,7 @@
 :root{
     --primary: black;
     --secondary: orange;
-    --bg : url("imgage/logo.jpg");
+    --bg : url("image/logo.jpg");
     --con: rgb(243, 21, 21);
     --lbg: url("imgage/logo.jpg");
     --icons: white;
@@ -29,9 +29,9 @@ body{
 }
 
 .dmode{
-    --primary: orange;
+    --primary: blue;
     --secondary: #fff;
-    --bg: url("imgage/logo.jpg");
+    --bg: url("image/logo.jpg");
     --icons: #c4c4c4;
     --i-hover: #4facfe;
     --menu:#4facfe;

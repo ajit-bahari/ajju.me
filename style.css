@@ -2,9 +2,9 @@
 :root{
     --primary: black;
     --secondary: orange;
-    --bg : url("https://telegra.ph/file/b99e220ef6efd239859ed.jpg");
+    --bg : url("https://telegra.ph/file/8ab50a2ddcc632a586ce4.jpg");
     --con: rgb(243, 21, 21);
-    --lbg: url("https://telegra.ph/file/b99e220ef6efd239859ed.jpg");
+    --lbg: url("https://telegra.ph/file/8ab50a2ddcc632a586ce4.jpg");
     --icons: white;
     --i-hover: orange;
     --border: 4px solid black;
@@ -31,7 +31,7 @@ body{
 .dmode{
     --primary: blue;
     --secondary: #fff;
-    --bg: url("https://telegra.ph/file/b99e220ef6efd239859ed.jpg");
+    --bg: url("https://telegra.ph/file/8ab50a2ddcc632a586ce4.jpg");
     --icons: #c4c4c4;
     --i-hover: #4facfe;
     --menu:#4facfe;
